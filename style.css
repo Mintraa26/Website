@@ -33,3 +33,8 @@ body {
     height: 320px;
     padding: auto;
   }
+
+  .maps{
+    border: 1px #ccc;
+    height: 300px;
+  }
