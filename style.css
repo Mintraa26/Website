@@ -4,6 +4,8 @@ body {
     font-family: 'Kanit', sans-serif;
   }
 
+  .mainpage {width: 1024px; margin: 0 auto;}
+
   header {
     background-color: black;
     color: white;
@@ -24,12 +26,10 @@ body {
   }
   .headname2 {
     color: rgb(255, 136, 0);
-}
-  
-.mainpage {width: 1024px; margin: 0 auto;}
+  }
 
-.graphic{
-  background-image: url("images/chantaburi-cover.jpeg");
-  height: 320px;
-  padding: auto;
-}
+  .graphic{
+    background-image: url("images/chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
+  }
