@@ -18,8 +18,11 @@ body {
     padding: 10px;
     text-align: center;
   }
-  .headname {
+  .headname1 {
       color: yellow;
   }
+  .headname2 {
+    color: yellow;
+}
   
 .mainpage {width: 1024px; margin: 0 auto;}
