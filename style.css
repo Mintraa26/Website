@@ -27,3 +27,9 @@ body {
 }
   
 .mainpage {width: 1024px; margin: 0 auto;}
+
+.graphic{
+  background-image: url("images/chantaburi-cover.jpeg");
+  height: 320px;
+  padding: auto;
+}
